@@ -1,0 +1,20 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"Colorsublime",
+		"EditorConfig",
+		"JavaScriptNext - ES6 Syntax",
+		"JSHint",
+		"JSX",
+		"Modific",
+		"Numix Theme",
+		"Package Control",
+		"ReactJS",
+		"SublimeLinter-contrib-eslint",
+		"TrailingSpaces"
+	]
+}

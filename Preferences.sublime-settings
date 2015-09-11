@@ -1,0 +1,25 @@
+{
+	"color_scheme": "Packages/Colorsublime - Themes/Aurora.tmTheme",
+	"draw_white_space": "all",
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"node_modules",
+		"CVS",
+		"build"
+	],
+	"font_face": "Hack",
+	"font_size": 10,
+	"ignored_packages":
+	[
+		""
+	],
+	"numix_folder_icons": true,
+	"tab_size": 2,
+	"theme": "Numix.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"use_tab_stops": true
+}
